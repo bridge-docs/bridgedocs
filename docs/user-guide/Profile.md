@@ -2,7 +2,7 @@
 
 ---
 
-## Accessing your profile
+## Accessing Your Profile
 
 1. Find the navigation bar on the left hand side.
 
@@ -12,11 +12,11 @@
 
     > ![Profile icon](./images/profileIcon.png "Profile icon")
 
-## Accessing someone else’s profile
+## Accessing Someone Else’s Profile
 
 1. When you see a listing of other clinicians, whether it be through the search feature on the upper right of the website, on the list of connections, or on a profile, simply click on the user’s icon to be moved to their profile. This will allow you to refer, connect, view their information, among other features.
 
-## Editing your profile
+## Editing Your Profile
 
 1. Navigate to your own profile (see Accessing your profile above).
 2. Hit the “Edit” button in the upper right corner of your profile.
@@ -31,7 +31,7 @@
 
     > ![Profile save](./images/profileSave.png "Profile save button")
 
-## Editing your availability
+## Editing Your Availability
 1. Find the navigation bar on the left hand side.
 2. Above the profile icon on the bottom of the bar in both collapsed and expanded view, change your availability to your preferred status. The check will represent available, and the X will represent unavailable.
 

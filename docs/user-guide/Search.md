@@ -12,7 +12,7 @@
 
     > ![search results](./images/globalSearchResults.png "Search results")
 
-## General Search with filters
+## General Search with Filters
 1. Repeat "General Search" to get to the general search page.
 2. Click on a filter button (besides Budget and Location which are WIP) to open the filter options dropdown.
 
@@ -22,13 +22,13 @@
 
     > ![search filters checked](./images/filterDropdownChecked.png "Search filters checked")
 
-## Clearing search filters
+## Clearing Search Filters
 1. Repeat "General Search with filters" to get to add filter options.
 2. Click the clear button at the bottom of the dropdown (new results will load automatically).
 
     > ![search filters cleared](./images/filterDropdownCleared.png "Search filters cleared")
 
-## Adding a new connection
+## Adding a New Connection
 1. Repeat "General Search" to get to the general search page.
 2. Click the “connect” button on a result.
 
