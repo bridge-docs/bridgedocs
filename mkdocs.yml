@@ -1,7 +1,7 @@
 # Project information
 site_name: Bridge Software Documentation
 site_description: A documentation and support website for Bridge
-site_author: CSC 405 Pont of Gold
+site_author: CSC 406 Pont of Gold
 site_url: https://docs.bridgemh.com
 
 # Repository
@@ -9,7 +9,7 @@ repo_name: bridge-docs/bridgedocs
 repo_url: https://github.com/bridge-docs/bridgedocs
 
 # Copyright
-copyright: Copyright &copy; 2020 Maxwell Taylor
+copyright: Copyright &copy; 2020 CSC 406 Pont of Gold
 
 # Configuration
 theme:
