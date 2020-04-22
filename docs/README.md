@@ -7,13 +7,17 @@ Bridge is an online professional networking platform and client management tool 
 ## How to use this documentation website:
 
 This site is meant to pair with your usage of the Bridge web application.
-Using the lefthand navigation bar contains links to Bridge documents as well as a guide every feature availble on the site.
+The lefthand navigation bar (click :fontawesome-solid-bars: on mobile or smaller screens) contains links to Bridge documents as well as a guide to every feature availble on the site.
 
 If you do not already have your Bridge login information, please contact <info@bridgemh.com> to get started.
 
 If you already have Bridge login information:
 
-[_**Click here to access the Alpha Bridge web application.**_](https://bridge-front-end.appspot.com/ "Bridge's Login Landing")
+[_**Click here to access the Bridge web application.**_](https://bridge-front-end.appspot.com/ "Bridge's Login Page")
+
+## Bridge is in Alpha Development
+
+Please note, Bridge is currently under development and is not guaranteed to be complete or 100% working yet. We would to hear your thoughts and feedback. [*Contact Us*](Feedback.md)
 
 ## Current Features Implemented
 

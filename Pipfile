@@ -7,6 +7,7 @@ verify_ssl = true
 
 [packages]
 mkdocs-material = "*"
+fontawesome-markdown = "*"
 
 [requires]
 python_version = "3.7"
