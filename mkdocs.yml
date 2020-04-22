@@ -1,0 +1,61 @@
+# Project information
+site_name: Bridge Software Documentation
+site_description: A documentation and support website for Bridge
+site_author: CSC 405 Pont of Gold
+site_url: https://docs.bridgemh.com
+
+# Repository
+repo_name: bridge-docs/bridgedocs
+repo_url: https://github.com/bridge-docs/bridgedocs
+
+# Copyright
+copyright: Copyright &copy; 2020 Maxwell Taylor
+
+# Configuration
+theme:
+  name: material
+  language: en
+  palette:
+    primary: indigo
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+# Navigation
+nav:
+    - Home: 'README.md'
+    - 'User Guide':
+        - 'Introduction - Start Here': 'user-guide/Introduction.md'
+        - 'user-guide/Accounts.md'
+        - 'user-guide/Profile.md'
+        - 'user-guide/Search.md'
+        - 'user-guide/Connections.md'
+    - Policies:
+        - 'EULA': 'EULA.md'
+        - 'Privacy Policy': 'PrivacyPolicy.md'
+    - Development:
+        - 'setup-backend.md'
+        - 'setup-frontend.md'
+    - 'Contact Us': 'Feedback.md'
+
+# Extras
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/bridge-docs
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/yourbridge/
+
+# Google Analytics
+google_analytics:
+  - UA-XXXXXXXX-X
+  - auto
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
