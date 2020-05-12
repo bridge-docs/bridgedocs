@@ -2,7 +2,7 @@
 
 ---
 
-Bridge is an online professional networking platform and client management tool suite for mental healthcare professionals. 
+Bridge is an online professional networking platform and referral management tool suite for mental healthcare professionals. 
 
 ## How to use this documentation website:
 
