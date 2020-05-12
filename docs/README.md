@@ -13,7 +13,7 @@ If you do not already have your Bridge login information, please contact <info@b
 
 If you already have Bridge login information:
 
-[_**Click here to access the Bridge web application.**_](https://bridge-front-end.appspot.com/ "Bridge's Login Page")
+[_**Click here to access the Bridge web application.**_](https://alpha-dot-bridge-front-end.appspot.com/ "Bridge's Login Page")
 
 ## Bridge is in Alpha Development
 
