@@ -8,13 +8,13 @@
 
     > ![Home page with navigation bar highlighted](./images/home.png "Home Page with Nav Bar")
 
-2. Select your icon on the bottom of the navigation bar. The navigation bar can be either collapsed or expanded.
+2. Select your icon on the bottom of the navigation bar.
 
     > ![Profile icon](./images/profileIcon.png "Profile icon")
 
 ## Accessing Someone Else’s Profile
 
-1. When you see a listing of other clinicians, whether it be through the search feature on the upper right of the website, on the list of connections, or on a profile, simply click on the user’s icon to be moved to their profile. This will allow you to refer, connect, view their information, among other features.
+1. When you see a listing of other clinicians, (i.e "Connection Requests" on Dashboard, Connections tab, or Search tab), simply click on the user’s icon to be moved to their profile. This will allow you to view the clinician's information and potentially connect, refer, or message that clinician among other features.
 
 ## Editing Your Profile
 
@@ -23,20 +23,24 @@
 
     > ![Profile edit](./images/profileEdit.png "Profile edit button")
 
-3. Your profile will now have text boxes for each section. You may add, delete, or edit the information in each field.
+3. Your profile will now display a modal with tabs for each corresponding section on your profile. Under each tab you will find text boxes to add, delete, or edit the information in each field.
 
-    > ![Profile edit mode](./images/profileEditMode.png "Profile edit mode")
+    > ![Profile edit general](./images/profileEdit_1General.PNG "Profile edit general")
+    > ![Profile edit practice](./images/profileEdit_2Practice.PNG "Profile edit practice")
+    > ![Profile edit about](./images/profileEdit_3About.PNG "Profile edit about")
+    > ![Profile edit contact](./images/profileEdit_4Contact.PNG "Profile edit contact")
+    > ![Profile edit experience](./images/profileEdit_5Experience.PNG "Profile edit experience") 
 
-4. After making changes and reviewing them, navigate back to the upper right hand side of the site and select the “Save” button
+4. After making changes and reviewing them, you can select the “Save Changes” button on the bottom right of the modal to push your profile changes to our system. If you wish to stop editing and remove any changes, simply select the "Cancel" button located to the left of "Save Changes." This will bring up a confirmation modal above asking you if you truly desire to "Discard Changes" or if you would like to "Keep Editing" and keep the edit modal present.
 
-    > ![Profile save](./images/profileSave.png "Profile save button")
+    > ![Profile discard](./images/profileEdit_Discard.PNG "Profile discard edits")   
 
 ## Editing Your Availability
 1. Find the navigation bar on the left hand side.
-2. Above the profile icon on the bottom of the bar in both collapsed and expanded view, change your availability to your preferred status. The check will represent available, and the X will represent unavailable.
+2. Above the profile icon on the bottom of the bar, your availability can be easily toggled to your preferred status. The check represents being available, and the X represents being unavailable.
 
     > ![Availability toggle](./images/availabilityToggle.png "Availability toggle")
 
-3. To change the unavailable until date, make sure the navigation bar is expanded. Selecting unavailable will now reveal a date and a calendar. Click on the calendar to expand it to select your new date in which you will become available.
+3. To add an "Unavailable Until" date, you must first toggle yourself as unavailable. This will reveal a date input field and a calendar icon which can be clicked to select the date you will be available.
 
     > ![Availability date](./images/availabilityDate.png "Availability date") ![Availability date picker](./images/availabilityDatePicker.png "Availability date picker")
